@@ -7,6 +7,7 @@ export const MovieListContainer = styled.ul`
   padding: 0;
   gap: 20px;
   margin: 0 -10px;
+  justify-content: center;
 `;
 
 export const MovieListItem = styled.li`
